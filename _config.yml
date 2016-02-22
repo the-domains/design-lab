@@ -1,0 +1,28 @@
+name: Design lab
+favicon: null
+layout_spectrum: 0.6710804183967412
+typography_spectrum: 0.6286294418387115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.893365525174886
+  lightness: 0.4753712569363415
+  saturation: 0.44856549240648746
+  rhythmicContrast: 0.7173427825327963
+purpose: []
